@@ -12,9 +12,9 @@ dependencies:
   analyzer: '>=5.2.0 <7.0.0'
   build: ^2.0.0
   exceptions:
-    git: https://github.com/mahmood1996/exceptions.git
+    git: https://github.com/Abd-ElRazek-Ali-Awad-Hassan/exceptions.git
   rest_api_annotation:
-    git: https://github.com/mahmood1996/rest_api_annotation.git
+    git: https://github.com/Abd-ElRazek-Ali-Awad-Hassan/rest_api_annotation.git
   source_gen: ^1.5.0
   dio: any
 
